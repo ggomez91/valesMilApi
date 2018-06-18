@@ -1,0 +1,23 @@
+{
+  "name": "valesmilapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ggomez91/valesMilApi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ggomez91/valesMilApi/issues"
+  },
+  "homepage": "https://github.com/ggomez91/valesMilApi#readme",
+  "dependencies": {
+    "ssl-root-cas": "^1.2.5",
+    "unirest": "^0.5.1"
+  }
+}
